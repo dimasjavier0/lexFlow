@@ -1,4 +1,4 @@
-# ImmersiWords – Plataforma inmersiva de vocabulario inglés
+# lexFlow – Plataforma inmersiva de vocabulario inglés
 
 ---
 

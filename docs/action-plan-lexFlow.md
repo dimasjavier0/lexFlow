@@ -1,7 +1,7 @@
-# Action Plan – ImmersiWords (Inmersive Words)
+# Action Plan – lexFlow (Inmersive Words)
 
 ## 🎯 Goal
-Crear y lanzar **ImmersiWords**, una plataforma de aprendizaje de vocabulario inglés basada en inmersión sensorial (imagen → audio → texto) que **utiliza imágenes y videos externos** por defecto y recurre a generación IA solo cuando no se encuentran recursos adecuados.
+Crear y lanzar **lexFlow**, una plataforma de aprendizaje de vocabulario inglés basada en inmersión sensorial (imagen → audio → texto) que **utiliza imágenes y videos externos** por defecto y recurre a generación IA solo cuando no se encuentran recursos adecuados.
 
 ---
 
